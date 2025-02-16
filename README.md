@@ -21,15 +21,15 @@ The early detection of cancer is crucial for effective treatment, but many patie
 - Evaluated models using accuracy, precision, recall, and F1-score to ensure optimal performance.
 
 ## Insights
-- Advanced deep learning models, such as LSTM and Transformer-based BERT, significantly outperform traditional machine learning models in cancer type classification&#8203;:contentReference[oaicite:0]{index=0}.
-- The use of pipelines in text classification improves workflow efficiency by automating text vectorization and classification&#8203;:contentReference[oaicite:1]{index=1}.
-- Evaluation metrics like accuracy, precision, recall, and F1-score confirm the reliability of machine learning models, with BERT achieving an F1-score of 95.11%&#8203;:contentReference[oaicite:2]{index=2}.
-- Future advancements in ensemble approaches and multi-label classification can further enhance predictive accuracy and practical applications&#8203;:contentReference[oaicite:3]{index=3}.
+- Advanced deep learning models, such as LSTM and Transformer-based BERT, significantly outperform traditional machine learning models in cancer type classification.
+- The use of pipelines in text classification improves workflow efficiency by automating text vectorization and classification.
+- Evaluation metrics like accuracy, precision, recall, and F1-score confirm the reliability of machine learning models, with BERT achieving an F1-score of 95.11%.
+- Future advancements in ensemble approaches and multi-label classification can further enhance predictive accuracy and practical applications.
 
 ## Recommendations
 - Implement ensemble learning techniques to integrate multiple models and enhance predictive performance.
 - Develop an intuitive AI-powered tool for medical professionals to input symptom descriptions and receive diagnostic insights.
-- Focus on ethical considerations and model interpretability to ensure AI predictions are transparent and trusted by stakeholders&#8203;:contentReference[oaicite:4]{index=4}.
+- Focus on ethical considerations and model interpretability to ensure AI predictions are transparent and trusted by stakeholders.
 - Leverage cutting-edge deep learning architectures like GPT or T5 for enhanced contextual understanding in medical text classification.
 
 ## Skills Learned & Usefulness for Stakeholders
@@ -42,4 +42,4 @@ The early detection of cancer is crucial for effective treatment, but many patie
 - **Healthcare Professionals**: AI-powered classification tools can aid in faster and more accurate cancer diagnosis.
 - **Medical Researchers**: Insights from AI-driven classification can assist in understanding disease patterns and improving diagnostic algorithms.
 - **AI & Data Scientists**: Enhancing medical NLP applications through innovative AI techniques.
-- **Patients & Caregivers**: Early and accurate classification of cancer types can lead to timely treatment decisions&#8203;:contentReference[oaicite:5]{index=5}.
+- **Patients & Caregivers**: Early and accurate classification of cancer types can lead to timely treatment decisions.
